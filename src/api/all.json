@@ -1,0 +1,157 @@
+{
+	"successful": true,
+	"error": null,
+	"code": 0,
+	"data": {
+		"info": [{
+				"url": "../image/1.gif",
+				"text": "圣诞种草"
+			},
+			{
+				"url": "../image/2.webp",
+				"text": "新品速递"
+			},
+			{
+				"url": "../image/3.webp",
+				"text": "大家都在买"
+			},
+			{
+				"url": "../image/4.webp",
+				"text": "签到领券"
+			}
+		],
+		"banner": [
+		
+
+			{
+			"url": "../image/ban1.webp",
+			"text": "情侣装短袖t恤女夏装新款韩版宽松大码夏季学生ulzzang百搭ins上衣体恤潮",
+			"price":40.00,
+			"fav_num":161
+		}, {
+			"url": "../image/ban2.webp",
+			"text": " 加大码短袖t恤女夏季新款韩版宽松白色印花上衣 ",
+			"price":18.88,
+			"fav_num":0
+		}, {
+			"url": "../image/ban3.webp",
+			"text": " 【49元两件】夏季情侣装新款紫色ins短袖全幼儿园最戏精印花仙女闺蜜装宽松韩版学生班服T恤 ",
+			"price":28.00,
+			"fav_num":3915
+		}, {
+			"url": "../image/ban4.webp",
+			"text": " 2018夏季新款性感低胸V领露肩漏背显瘦气质雪纺连衣裙吊带长裙女 ",
+			"price":99.00,
+			"fav_num":167
+		}],
+
+
+
+
+			"good": [{
+			"url": "../image/good1.webp",
+			"text": " 【两件50元】2018春夏季新款情侣装韩版人物印花男女宽松t恤女短袖港风圆领闺蜜打底衫上衣 ",
+			"price":40.00,
+			"fav_num":161
+		}, {
+			"url": "../image/good2.webp",
+			"text": "新品速递",
+			"price":40.00,
+			"fav_num":161
+		}, {
+			"url": "../image/good3.webp",
+			"text": "大家都在买",
+			"price":40.00,
+			"fav_num":161
+		}, {
+			"url": "../image/good4.webp",
+			"text": "签到领券",
+			"price":40.00,
+			"fav_num":161
+		},
+		{
+			"url": "../image/good5.webp",
+			"text": " 加大码短袖t恤女夏季新款韩版宽松白色印花上衣 ",
+			"price":18.88,
+			"fav_num":0
+		}, {
+			"url": "../image/good6.webp",
+			"text": " 【49元两件】夏季情侣装新款紫色ins短袖全幼儿园最戏精印花仙女闺蜜装宽松韩版学生班服T恤 ",
+			"price":28.00,
+			"fav_num":3915
+		},
+        {
+			"url": "../image/good7.webp",
+			"text": "大家都在买",
+			"price":40.00,
+			"fav_num":161
+		}, {
+			"url": "../image/good8.webp",
+			"text": "签到领券",
+			"price":40.00,
+			"fav_num":161
+		},
+		{
+			"url": "../image/good9.webp",
+			"text": " 加大码短袖t恤女夏季新款韩版宽松白色印花上衣 ",
+			"price":18.88,
+			"fav_num":0
+		}, {
+			"url": "../image/good10.webp",
+			"text": " 【49元两件】夏季情侣装新款紫色ins短袖全幼儿园最戏精印花仙女闺蜜装宽松韩版学生班服T恤 ",
+			"price":28.00,
+			"fav_num":3915
+		}, {
+			"url": "../image/good11.webp",
+			"text": " 2018夏季新款性感低胸V领露肩漏背显瘦气质雪纺连衣裙吊带长裙女 ",
+			"price":99.00,
+			"fav_num":167
+		},
+		{
+			"url": "../image/good12.webp",
+			"text": " 【两件50元】2018春夏季新款情侣装韩版人物印花男女宽松t恤女短袖港风圆领闺蜜打底衫上衣 ",
+			"price":40.00,
+			"fav_num":161
+		},
+		{
+			"url": "../image/good5.webp",
+			"text": " 加大码短袖t恤女夏季新款韩版宽松白色印花上衣 ",
+			"price":18.88,
+			"fav_num":0
+		}, {
+			"url": "../image/good6.webp",
+			"text": " 【49元两件】夏季情侣装新款紫色ins短袖全幼儿园最戏精印花仙女闺蜜装宽松韩版学生班服T恤 ",
+			"price":28.00,
+			"fav_num":3915
+		},
+        {
+			"url": "../image/good7.webp",
+			"text": "大家都在买",
+			"price":40.00,
+			"fav_num":161
+		}, {
+			"url": "../image/good8.webp",
+			"text": "签到领券",
+			"price":40.00,
+			"fav_num":161
+		},
+		{
+			"url": "../image/good9.webp",
+			"text": " 加大码短袖t恤女夏季新款韩版宽松白色印花上衣 ",
+			"price":18.88,
+			"fav_num":0
+		}, {
+			"url": "../image/good10.webp",
+			"text": " 【49元两件】夏季情侣装新款紫色ins短袖全幼儿园最戏精印花仙女闺蜜装宽松韩版学生班服T恤 ",
+			"price":28.00,
+			"fav_num":3915
+		}
+
+
+	]
+			
+
+	}
+
+
+}
